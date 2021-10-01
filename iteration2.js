@@ -22,3 +22,4 @@ globalBasePrice=25000;
 car1.finalPrice=car1.basePrice+globalBasePrice;
 car2.finalPrice=car2.basePrice+globalBasePrice;
 console.log(car1.finalPrice,car2.finalPrice);
+
